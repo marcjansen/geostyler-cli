@@ -41,7 +41,7 @@
     "npm": ">=6.0.0"
   },
   "devDependencies": {
-    "@types/node": "^16.9.1",
+    "@types/node": "^18.14.0",
     "@terrestris/eslint-config-typescript": "^2.1.0",
     "@types/gradient-string": "^1.1.2",
     "@typescript-eslint/eslint-plugin": "^5.27.1",
